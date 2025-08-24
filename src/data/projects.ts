@@ -16,11 +16,11 @@ export const projects: Project[] = [
     description:
       "An Virtual Intelligent Bot Engine using Retrieval-Augmented Generation (RAG) for creating custom AI assistants with domain-specific knowledge.",
     category: ["AI/ML"],
-    logoUrl: "/logos/vaultai.png",
+    logoUrl: "/logos/chatbot.png",
     video: "",
-    github: "https://github.com/pranayjalan254/rag-chatbot-builder",
-    demo: "",
-    tech: ["Python", "LangChain", "React", "FastAPI", "Vector DB"],
+    github: "https://github.com/pranayjalan254/vibe",
+    demo: "/videos/chatbot-builder.mp4",
+    tech: ["Python", "LangChain", "React", "Flask", "ChromaDB"],
     featured: true,
   },
   {
